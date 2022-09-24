@@ -1,0 +1,32 @@
+
+
+@media (max-width: 993px){
+    .free{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 268px){
+    main p{
+        width: 201px;
+    }
+}
+
+@media (max-width: 492px){
+    main p{
+        width: 201px;
+    }
+}
+
+@media (max-width:1076px){
+    .contact {
+        display: flex;
+        background: #f5f5f5;
+        flex-direction: column
+    }
+    .container {
+        max-width: 548px;
+    }
+
+}
